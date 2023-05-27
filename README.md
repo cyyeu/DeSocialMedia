@@ -1,11 +1,13 @@
 # Decentralized Social Media (DSM)
 This is a decentralized social media platform mounted on the Ethereum blockchain. 
 
-# Setup (install all npm dependencies): `npm i`
+## [Click here for documentation](https://docs.google.com/document/d/1opUoOct9qU5mwBmatVyl3xkFnWTF-zBF7WlApPukzF8/edit?usp=sharing)
 
-# Start ganache before performing the following:
-## Compile: `truffle compile`
+## Setup (install all npm dependencies): `npm i`
 
-## Migrate (Deploy on ganache): `truffle migrate --reset`
+## Start ganache before performing the following:
+### Compile: `truffle compile`
 
-## Test (run all tests, this takes awhile, about 2-5mins): `truffle test`
+### Migrate (Deploy on ganache): `truffle migrate --reset`
+
+### Test (run all tests, this takes awhile, about 2-5mins): `truffle test`
